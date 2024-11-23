@@ -9,14 +9,14 @@ int main()
 	scanf("%d",&firstNumber);
 	// xu ly yeu cau bai toan 
 	if(firstNumber == 0){
-		printf("So 0 khong phai la so chan hay so le "); 
+		printf("So 0 khong phai la so duong hay so am "); 
 	}
 	else{
 		if(firstNumber > 0){
 			printf("So ban vua nhap la so duong");
 		}
 		else{
-			printf("So ban vua nhap l‡ so am"); 
+			printf("So ban vua nhap l√† so am"); 
 		} 
 		}
 	    return 0; 
