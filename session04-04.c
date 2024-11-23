@@ -5,7 +5,7 @@ int main()
 	// khai bao bien 
 	int firstNumber;
 	// nhap gia tri cho bien firstNumber tu ban phim
-	printf("Moi ban nhap mot so thang bat ki:");
+	printf("Moi ban nhap mot thang bat ki:");
 	scanf("%d",&firstNumber);
 	// xu ly yeu cau bai toan 
 	if(firstNumber == 1 || firstNumber == 3 || firstNumber == 5 || firstNumber == 7 || firstNumber == 8 || firstNumber == 10 || firstNumber == 12){
